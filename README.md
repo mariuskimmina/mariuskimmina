@@ -35,6 +35,8 @@
 
 ### Spotify Playing 🎧
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mindslavex&cover_image=true)](https://github.com/kittinan/spotify-github-profile)
+[![Spotify](https://mindslave.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+
 
 
 
