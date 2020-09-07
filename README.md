@@ -7,7 +7,7 @@
 - I'm trying to learn Korean (No I'm not into kpop, metal all the way)
 
 ### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/mindslavex)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mindslavex&cover_image=true)](https://github.com/kittinan/spotify-github-profile)
 
 ### Connect with me:
 
