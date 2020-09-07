@@ -7,7 +7,7 @@
 - I'm trying to learn Korean 
 
 ### Spotify Playing 🎧
-[<img src="https://novatorem-tau-six.vercel.app/api/spotify-playing" alt="SpotifyPlaying" width="350" />][twitter]
+[<img src="https://novatorem-git-master.mindslave.vercel.app/api/spotify-playing" alt="SpotifyPlaying" width="350" />][twitter]
 
 
 ### Connect with me:
@@ -38,7 +38,7 @@
 
 ### Spotify Playing 🎧
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mindslavex&cover_image=true)](https://github.com/kittinan/spotify-github-profile)
-[![Spotify](https://novatorem-tau-six.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+[![Spotify](https://novatorem-git-master.mindslave.vercel.app/api/spotify-playing)](https://open.spotify.com/user/mindslavex)
 
 
 
