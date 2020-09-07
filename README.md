@@ -4,10 +4,8 @@
 - I'm currently learning about malware analysis and detection.
 - I'm looking for an active CTF team to play and learn together.
 - I'm also playing League of legends every once in a while.
-- I'm trying to learn Korean (No I'm not into kpop, metal all the way)
+- I'm trying to learn Korean 
 
-### Spotify Playing 🎧
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mindslavex&cover_image=true)](https://github.com/kittinan/spotify-github-profile)
 
 ### Connect with me:
 
@@ -22,6 +20,10 @@
 - [HackTheBox Resolute](https://blog.mksec.eu/HackTheBox_Resolute/)
 
 ➡️ [more blog posts...](https://blog.mksec.eu)
+
+### Spotify Playing 🎧
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mindslavex&cover_image=true)](https://github.com/kittinan/spotify-github-profile)
+
 
 
 
