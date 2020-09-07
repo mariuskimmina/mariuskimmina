@@ -11,11 +11,14 @@
 [<img align="left" alt="Mindslave | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 <br />
 <br />
-### 📕 Read my Blog
 
-In recent times I have mostly posted HackTheBox writeups, I hope to be able to create more diverse content in the future:
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+### 📕 Latest Blog Posts
 
+- [HackTheBox Sauna](https://blog.mksec.eu/HackTheBox_Sauna/)
+- [HackTheBox ServMon](https://blog.mksec.eu/HackTheBox_ServMon/)
+- [HackTheBox Resolute](https://blog.mksec.eu/HackTheBox_Resolute/)
+
+➡️ [more blog posts...](https://blog.mksec.eu)
 
 
 
