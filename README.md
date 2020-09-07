@@ -6,6 +6,9 @@
 - I'm also playing League of legends every once in a while.
 - I'm trying to learn Korean (No I'm not into kpop, metal all the way)
 
+### Spotify Playing 🎧
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/mindslavex)
+
 ### Connect with me:
 
 [<img align="left" alt="Mindslave | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
