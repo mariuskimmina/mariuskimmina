@@ -7,7 +7,7 @@
 - I'm trying to learn Korean 
 
 ### Spotify Playing 🎧
-<img src="https://novatorem-tau-six.vercel.app/api/spotify-playing" alt="SpotifyPlaying" width="350" />
+[<img src="https://novatorem-tau-six.vercel.app/api/spotify-playing" alt="SpotifyPlaying" width="350" />][twitter]
 
 
 ### Connect with me:
