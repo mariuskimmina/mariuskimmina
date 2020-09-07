@@ -13,6 +13,10 @@
 <br />
 <br />
 
+### Languages and Tools:
+
+[<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/Python.svg" />]
+
 ### 📕 Latest Blog Posts
 
 - [HackTheBox Sauna](https://blog.mksec.eu/HackTheBox_Sauna/)
