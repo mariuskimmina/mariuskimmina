@@ -6,6 +6,9 @@
 - I'm also playing League of legends every once in a while.
 - I'm trying to learn Korean 
 
+### Spotify Playing 🎧
+<img src="https://novatorem-tau-six.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />
+
 
 ### Connect with me:
 
