@@ -3,7 +3,6 @@
 - I'm an IT-Security student and participate in CTF challenges every now and then.
 - I'm currently learning about malware analysis and detection.
 - I'm looking for an active CTF team to play and learn together.
-- I'm also playing League of legends every once in a while.
 - I'm trying to learn Korean 
 
 
