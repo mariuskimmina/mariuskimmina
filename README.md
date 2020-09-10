@@ -32,9 +32,6 @@
 
 ➡️ [more blog posts...](https://blog.mksec.eu)
 
-### Spotify Playing 🎧
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mindslavex&cover_image=true)](https://github.com/kittinan/spotify-github-profile)
-
 
 
 
