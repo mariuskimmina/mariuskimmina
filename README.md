@@ -26,9 +26,11 @@
 
 ### 📕 Latest Blog Posts
 
+- [Malware Analysis - unpacking GlobeImposter Ransomware](https://blog.mksec.eu/mwa_globeImposter/)
+- [Malware Analysis - Packing](https://blog.mksec.eu/mwa_packing/)
 - [HackTheBox Sauna](https://blog.mksec.eu/HackTheBox_Sauna/)
-- [HackTheBox ServMon](https://blog.mksec.eu/HackTheBox_ServMon/)
-- [HackTheBox Resolute](https://blog.mksec.eu/HackTheBox_Resolute/)
+
+
 
 ➡️ [more blog posts...](https://blog.mksec.eu)
 
