@@ -1,4 +1,4 @@
-### Hey there I'm Marius Kimmina aka Mindslave
+### Hey there I'm Marius Kimmina
 
 - I'm an IT-Security student and participate in CTF challenges every now and then.
 - I'm currently learning about malware analysis and detection.
