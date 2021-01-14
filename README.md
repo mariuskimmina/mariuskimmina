@@ -41,5 +41,5 @@
 
 
 [twitter]: https://twitter.com/Mindslave4
-[linkedin]: www.linkedin.com/in/marius-kimmina-33a328201
+[linkedin]: https://linkedin.com/in/marius-kimmina-33a328201
 [website]: https://blog.mksec.eu/
