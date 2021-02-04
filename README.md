@@ -1,9 +1,10 @@
 ### Hey there I'm Marius Kimmina
 
-- I'm an IT-Security student and participate in CTF challenges every now and then.
-- I'm currently learning about malware analysis and detection.
+- I'm an IT-Security Student and participate in CTF challenges every now and then.
 - I'm looking for an active CTF team to play and learn together.
-- I'm trying to learn Korean 
+- I'm learning about all things IT-Security, one day it's web another it might be binary exploitation.
+- I'm contributing to OWASP.
+- I'm learning Korean 
 
 
 ### Connect with me:
