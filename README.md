@@ -1,4 +1,4 @@
-### Hey there I'm Marius Kimmina
+# Hey there I'm Marius Kimmina
 
 - I'm an IT-Security Student and participate in CTF challenges every now and then.
 - I'm looking for an active CTF team to play and learn together.
@@ -7,14 +7,14 @@
 - I'm learning Korean 
 
 
-### Connect with me:
+## Connect with me:
 
 [<img align="left" alt="Mindslave | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Mindslave | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
 <br />
 
-### Languages and Tools:
+## Languages and Tools:
 
 
 <img align="left" alt="Golang" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />
@@ -29,7 +29,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <br />
 <br />
 
-### 📕 Latest Blog Posts
+## 📕 Latest Blog Posts
 
 - [Malware Analysis - unpacking GlobeImposter Ransomware](https://blog.mksec.eu/mwa_globeImposter/)
 - [Malware Analysis - Packing](https://blog.mksec.eu/mwa_packing/)
