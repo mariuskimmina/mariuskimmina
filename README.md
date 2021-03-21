@@ -31,6 +31,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 ## 📕 Latest Blog Posts
 
+- [HackTheBox Feline](https://blog.mksec.eu/HackTheBox_Feline/)
 - [Malware Analysis - unpacking GlobeImposter Ransomware](https://blog.mksec.eu/mwa_globeImposter/)
 - [Malware Analysis - Packing](https://blog.mksec.eu/mwa_packing/)
 - [HackTheBox Sauna](https://blog.mksec.eu/HackTheBox_Sauna/)
