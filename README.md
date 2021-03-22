@@ -5,11 +5,13 @@
 - I'm contributing to OWASP
 - I'm learning Korean
 - Go & Python
+<br />
 
 ## Some fancy stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mindslave)](https://github.com/anuraghazra/github-readme-stats)
 
+<br />
 
 ## Connect with me / Find me:
 
@@ -17,7 +19,6 @@
 - [<img align="left" alt="Mindslave | Twitter" width="22px" src="https://d29fhpw069ctt2.cloudfront.net/icon/image/38764/preview.svg" />][linkedin]
 - [<img align="left" alt="Mindslave | HackTheBox" width="22px" src="https://silofy.gallerycdn.vsassets.io/extensions/silofy/hackthebox/0.2.8/1586357939010/Microsoft.VisualStudio.Services.Icons.Default" />][hackthebox]
 - [<img align="left" alt="Mindslave | StackOverFlow" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" />][stackoverflow]
-<br />
 <br />
 
 
