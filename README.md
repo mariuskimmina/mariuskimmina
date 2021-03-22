@@ -11,7 +11,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mindslave)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## Connect with me:
+## Connect with me / Find me:
 
 - [<img align="left" alt="Mindslave | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 - [<img align="left" alt="Mindslave | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
