@@ -6,6 +6,8 @@
 - I'm contributing to OWASP.
 - I'm learning Korean 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mindslave)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Connect with me:
 
