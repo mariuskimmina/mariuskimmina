@@ -13,8 +13,8 @@
 
 ## Connect with me / Find me:
 
-- [<img align="left" alt="Mindslave | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-- [<img align="left" alt="Mindslave | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+- [<img align="left" alt="Mindslave | Twitter" width="22px" src="https://www.lter-europe.net/document-archive/image-gallery/albums/logos/TwitterLogo_55acee.png/image" />][twitter]
+- [<img align="left" alt="Mindslave | Twitter" width="22px" src="https://d29fhpw069ctt2.cloudfront.net/icon/image/38764/preview.svg" />][linkedin]
 - [<img align="left" alt="Mindslave | HackTheBox" width="22px" src="https://silofy.gallerycdn.vsassets.io/extensions/silofy/hackthebox/0.2.8/1586357939010/Microsoft.VisualStudio.Services.Icons.Default" />][hackthebox]
 - [<img align="left" alt="Mindslave | StackOverFlow" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" />][stackoverflow]
 <br />
