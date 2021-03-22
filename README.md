@@ -15,7 +15,7 @@
 
 - [<img align="left" alt="Mindslave | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 - [<img align="left" alt="Mindslave | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-- [<img align="left" alt="Mindslave | HackTheBox" width="22px" src="https://silofy.gallerycdn.vsassets.io/extensions/silofy/hackthebox/0.2.8/1586357939010/Microsoft.VisualStudio.Services.Icons.Default" \>][hackthebox]
+- [<img align="left" alt="Mindslave | HackTheBox" width="22px" src="https://silofy.gallerycdn.vsassets.io/extensions/silofy/hackthebox/0.2.8/1586357939010/Microsoft.VisualStudio.Services.Icons.Default" />][hackthebox]
 <br />
 <br />
 
