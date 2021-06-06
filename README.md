@@ -3,7 +3,6 @@
 - I'm studying Computer Science and work as a Developer.
 - I'm a regular CTF player, looking for a team (hit me up on twitter).
 - I'm contributing to OWASP
-- I'm learning Korean
 - Go & Python
 <br />
 
