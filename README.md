@@ -9,8 +9,9 @@
 ## Tools and Languages
 <p align="left">
 <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="Go" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/Mindslave/Mindslave/master/assets/docker.png" alt="Docker" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/Mindslave/Mindslave/master/assets/python.png" alt="Python" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="40" height="40"/>
 </p>
 
 
