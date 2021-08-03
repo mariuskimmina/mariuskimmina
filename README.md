@@ -14,18 +14,16 @@
 <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgresQL" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-
 </p>
 
 
 
 ## Connect with me / Find me:
 
-- [<img align="left" alt="Mindslave | Twitter" width="22px" src="https://www.lter-europe.net/document-archive/image-gallery/albums/logos/TwitterLogo_55acee.png/image" />][twitter]
-- [<img align="left" alt="Mindslave | Twitter" width="22px" src="https://d29fhpw069ctt2.cloudfront.net/icon/image/38764/preview.svg" />][linkedin]
-- [<img align="left" alt="Mindslave | HackTheBox" width="22px" src="https://silofy.gallerycdn.vsassets.io/extensions/silofy/hackthebox/0.2.8/1586357939010/Microsoft.VisualStudio.Services.Icons.Default" />][hackthebox]
-- [<img align="left" alt="Mindslave | StackOverFlow" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" />][stackoverflow]
+- [<img align="left" alt="Twitter" width="22px" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" />][twitter]
+- [<img align="left" alt="LinkedIN" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />][linkedin]
+- [<img align="left" alt="HackTheBox" width="22px" src="https://silofy.gallerycdn.vsassets.io/extensions/silofy/hackthebox/0.2.8/1586357939010/Microsoft.VisualStudio.Services.Icons.Default" />][hackthebox]
+- [<img align="left" alt="StackOverFlow" width="22px" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" />][stackoverflow]
 <br />
 
 ## 100DaysOfCode
