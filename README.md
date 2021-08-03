@@ -8,7 +8,7 @@
 
 ## Connect with me / Find me:
 <p align="left">
-- [<img align="left" alt="Twitter" width="40" height="40" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" />][twitter]
+- [<img align="left" alt="Twitter" width="40" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" />][twitter]
 - [<img align="left" alt="LinkedIN" width="40" height="40" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />][linkedin]
 - [<img align="left" alt="HackTheBox" width="40" height="40" src="https://silofy.gallerycdn.vsassets.io/extensions/silofy/hackthebox/0.2.8/1586357939010/Microsoft.VisualStudio.Services.Icons.Default" />][hackthebox]
 - [<img align="left" alt="StackOverFlow" width="40" height="40" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" />][stackoverflow]
