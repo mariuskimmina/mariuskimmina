@@ -8,7 +8,7 @@
 
 ## Tools and Languages
 
-<a href="https://spring.io/" target="_blank"> <img src="https://raw.githubusercontent.com/Mindslave/Mindslave/master/assets/Docker.svg" alt="docker" width="40" height="40"/> </a>
+<img src="https://raw.githubusercontent.com/Mindslave/Mindslave/master/assets/Docker.svg" alt="docker" width="80" height="80"/>
 
 
 ## Connect with me / Find me:
