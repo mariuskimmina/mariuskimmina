@@ -8,7 +8,7 @@
 
 ## Tools and Languages
 <p align="left">
-<img src="https://raw.githubusercontent.com/Mindslave/Mindslave/master/assets/go.png" alt="Go" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" alt="Go" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/Mindslave/Mindslave/master/assets/docker.png" alt="Docker" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/Mindslave/Mindslave/master/assets/python.png" alt="Python" width="40" height="40"/>
 </p>
