@@ -8,7 +8,7 @@
 
 ## Tools and Languages
 
-<img src="https://raw.githubusercontent.com/Mindslave/Mindslave/master/assets/Docker.svg" alt="docker" width="80" height="80"/>
+<img src="https://raw.githubusercontent.com/Mindslave/Mindslave/master/assets/docker.png" alt="docker" width="40" height="40"/>
 
 
 ## Connect with me / Find me:
