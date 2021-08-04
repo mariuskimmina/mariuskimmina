@@ -54,7 +54,7 @@ I'm currently working on the #100DaysOfCode Challenge, you can follow my progres
 
 ## Some fancy stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mindslave)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mindslave&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 
