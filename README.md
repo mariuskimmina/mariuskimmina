@@ -8,16 +8,16 @@
 
 ## Connect with me / Find me:
 <a href="https://twitter.com/Mindslave4" target="_blank">
-  <img align="left" alt="Twitter" width="40" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" />
+  <img align="left" alt="Twitter" width="35" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" />
 </a>
 <a href="https://linkedin.com/in/marius-kimmina-33a328201" target="_blank">
-  <img align="left" alt="LinkedIN" width="40" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+  <img align="left" alt="LinkedIN" width="35" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
 </a>
 <a href="https://app.hackthebox.eu/profile/36525" target="_blank">
-<img align="left" alt="HackTheBox" width="40"   src="https://silofy.gallerycdn.vsassets.io/extensions/silofy/hackthebox/0.2.8/1586357939010/Microsoft.VisualStudio.Services.Icons.Default" />
+<img align="left" alt="HackTheBox" width="35"   src="https://silofy.gallerycdn.vsassets.io/extensions/silofy/hackthebox/0.2.8/1586357939010/Microsoft.VisualStudio.Services.Icons.Default" />
 </a>
 <a href="https://stackoverflow.com/users/13693791/mindslave?tab=profile" target="_blank">
-  <img align="left" alt="StackOverFlow" width="40" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" />
+  <img align="left" alt="StackOverFlow" width="35" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" />
 </a>
 
 <br />
