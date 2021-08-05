@@ -16,9 +16,6 @@
 <a href="https://app.hackthebox.eu/profile/36525" target="_blank">
 <img align="left" alt="HackTheBox" width="33" src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/hackthebox.svg" />
 </a>
-<a href="https://app.hackthebox.eu/profile/36525" target="_blank">
-<img align="left" alt="HackTheBox" width="33"   src="https://silofy.gallerycdn.vsassets.io/extensions/silofy/hackthebox/0.2.8/1586357939010/Microsoft.VisualStudio.Services.Icons.Default" />
-</a>
 <a href="https://stackoverflow.com/users/13693791/mindslave?tab=profile" target="_blank">
   <img align="left" alt="StackOverFlow" width="33" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" />
 </a>
