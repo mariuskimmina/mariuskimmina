@@ -8,7 +8,7 @@
 
 ## Connect with me / Find me:
 <a href="https://twitter.com/Mindslave4" target="_blank">
-  <img align="left" alt="Twitter" width="33" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" />
+  <img align="left" alt="Twitter" width="33" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" />
 </a>
 <a href="https://linkedin.com/in/marius-kimmina-33a328201" target="_blank">
   <img align="left" alt="LinkedIN" width="33" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
