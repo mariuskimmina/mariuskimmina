@@ -32,7 +32,6 @@
 <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgresQL" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/openapis/openapis-icon.svg" alt="OpenAPI" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="Nginx" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" height="40"/>
 </p>
