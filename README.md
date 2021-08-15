@@ -1,4 +1,4 @@
-<center> <h1>Marius Kimmina</h1> </center>
+<center> <h1 align="center">Marius Kimmina</h1> </center>
 
 
 - I'm studying Computer Science and work as a Developer.
