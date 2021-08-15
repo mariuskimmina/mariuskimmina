@@ -1,10 +1,11 @@
 <h1 align="center">Marius Kimmina</h1>
 
 
-- I'm studying Computer Science and work as a Developer.
-- I'm a regular CTF player, looking for a team (hit me up on twitter).
-- I'm contributing to OWASP
-- Go & Python
+- I work as a developer
+- I study computer science
+- I prefer to code in Go & Python
+- I participate in hacking challenges (CTFs)
+- I am interessted in DevOps and microservice architectures
 <br />
 
 ## Connect with me / Find me:
