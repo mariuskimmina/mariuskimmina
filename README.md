@@ -1,4 +1,5 @@
-# Marius Kimmina
+<center> <h1>Marius Kimmina</h1> </center>
+
 
 - I'm studying Computer Science and work as a Developer.
 - I'm a regular CTF player, looking for a team (hit me up on twitter).
