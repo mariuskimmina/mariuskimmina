@@ -3,8 +3,8 @@
 
 - I work as a developer
 - I study computer science
-- I prefer to code in Go & Python
 - I participate in hacking challenges (CTFs)
+- I code in Go & Python
 - I am interessted in DevOps and microservice architectures
 <br />
 
