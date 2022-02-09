@@ -46,7 +46,7 @@
 ## Some fancy stats
 
 <a href="https://github.com/mariuskimmina">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mariuskimmina&show_icons=true&line_height=33&count_private=false&theme=dark&hide=stars" alt="Marius GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mariuskimmina&show_icons=true&line_height=35&count_private=false&theme=dark&hide=stars" alt="Marius GitHub Stats" />
 </a>
 
 <a href="https://github.com/mariuskimmina">
