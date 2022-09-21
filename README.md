@@ -9,7 +9,7 @@
 <br />
 
 ## Connect with me / Find me:
-<a href="https://twitter.com/Mindslave4" target="_blank">
+<a href="https://twitter.com/mariuskimmina" target="_blank">
   <img align="left" alt="Twitter" width="33" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" />
 </a>
 <a href="https://linkedin.com/in/marius-kimmina-33a328201" target="_blank">
@@ -18,7 +18,7 @@
 <a href="https://app.hackthebox.eu/profile/36525" target="_blank">
 <img align="left" alt="HackTheBox" width="33" src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/hackthebox.svg" />
 </a>
-<a href="https://stackoverflow.com/users/13693791/mindslave?tab=profile" target="_blank">
+<a href="https://stackoverflow.com/users/13693791/mariuskimmina" target="_blank">
   <img align="left" alt="StackOverFlow" width="33" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" />
 </a>
 
@@ -26,7 +26,7 @@
 <br />
 <br />
 
-## Tools and Languages
+## 🧰 Languages and Tools
 <p align="left">
 <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="Go" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40"/>
