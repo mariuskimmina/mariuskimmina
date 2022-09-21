@@ -28,14 +28,14 @@
 
 ## 🧰 Languages and Tools
 <p align="left">
-<img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="Go" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgresQL" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="Nginx" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/grpcio/grpcio-icon.svg" alt="gRPC" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="Go" width="40" height="40" style="padding-right:10px;"/>
+<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40" style="padding-right:10px;"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" style="padding-right:10px;"/>
+<img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgresQL" width="40" height="40" style="padding-right:10px;"/>
+<img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="40" height="40" style="padding-right:10px;"/>
+<img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="40" height="40" style="padding-right:10px;"/>
+<img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="Nginx" width="40" height="40" style="padding-right:10px;"/>
+<img src="https://www.vectorlogo.zone/logos/grpcio/grpcio-icon.svg" alt="gRPC" width="40" height="40" style="padding-right:10px;"/>
 </p>
 
 <br />
