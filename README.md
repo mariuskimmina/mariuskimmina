@@ -1,11 +1,12 @@
 <h1 align="center">Marius Kimmina</h1>
 
 
-- I work as a developer
-- I study computer science
-- I participate in hacking challenges (CTFs)
-- I code in Go & Python
-- I am interessted in DevOps and microservice architectures
+- DevOps Engineer
+- Studied computer science
+- Codes in Go & Python
+- likes hacking challenges (CTFs)
+- Contributes to open-source - current focus: CoreDNS
+
 <br />
 
 ## Connect with me / Find me:
