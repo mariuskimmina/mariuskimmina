@@ -2,9 +2,9 @@
 
 
 - DevOps Engineer
-- Codes in Go & Python
-- Likes hacking challenges (CTFs)
-- Contributes to open-source - current focus: CoreDNS
+- Go & Python
+- Hacking challenges (CTFs)
+- Open-Source - current focus: CoreDNS
 
 <br />
 
