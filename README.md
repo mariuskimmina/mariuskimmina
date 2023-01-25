@@ -50,7 +50,7 @@
 </a>
 
 <a href="https://github.com/mariuskimmina">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariuskimmina&hide=cmake,html&langs_count=4&line_height=35&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariuskimmina&hide=cmake,html&langs_count=4&line_height=37&theme=dark" />
 </a>
 
 <br />
