@@ -14,7 +14,7 @@
 
 
 <br />
-<br />
+
 
 ## 🧰 Languages and Tools
 <p align="left">
@@ -27,6 +27,7 @@
 <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="terraform" align="left"/>
 </p>
 <p align="left">
+<br />
 <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="k8s" align="left"/>
 </p>
 
