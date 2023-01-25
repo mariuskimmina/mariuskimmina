@@ -1,7 +1,5 @@
 <h1 align="center">Marius Kimmina</h1>
 <p align="center">
-    <a href="https://github.com/mariuskimmina" alt="github">
-        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
     <a href="https://twitter.com/marius_kimmina" alt="Twitter">
         <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
     <a href="https://linkedin.com/" alt="LinkedIn">
@@ -36,14 +34,14 @@
 
 ## 🧰 Languages and Tools
 <p align="left">
-<img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="Go" width="40" height="40" style="padding-right:10px;" align="left"/>
-<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40" style="padding-right:10px;" align="left"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" style="padding-right:10px;" align="left"/>
-<img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="40" height="40" style="padding-right:10px;" align="left"/>
-<img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="40" height="40" style="padding-right:10px;" align="left"/>
-<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40" style="padding-right:10px;" align="left"/>
-<img src="https://www.vectorlogo.zone/logos/corednsio/corednsio-icon.svg" alt="coredns" width="40" height="40" style="padding-right:10px;" align="left"/>
-<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="k8s" width="40" height="40" style="padding-right:10px;" align="left"/>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" width="40" height="40" style="padding-right:10px;" align="left"/>
+<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" width="40" height="40" style="padding-right:10px;" align="left"/>
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" width="40" height="40" style="padding-right:10px;" align="left"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" width="40" height="40" style="padding-right:10px;" align="left"/>
+<img src="	https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" width="40" height="40" style="padding-right:10px;" align="left"/>
+<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws" width="40" height="40" style="padding-right:10px;" align="left"/>
+<img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="terraform" width="40" height="40" style="padding-right:10px;" align="left"/>
+<img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="k8s" width="40" height="40" style="padding-right:10px;" align="left"/>
 </p>
 
 <br />
