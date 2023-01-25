@@ -12,23 +12,7 @@
 - Hacking challenges (CTFs)
 - Open-Source - current focus: CoreDNS
 
-<br />
 
-## Connect with me / Find me:
-<a href="https://twitter.com/mariuskimmina" target="_blank">
-  <img align="left" alt="Twitter" width="33" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" />
-</a>
-<a href="https://linkedin.com/in/marius-kimmina-33a328201" target="_blank">
-  <img align="left" alt="LinkedIN" width="33" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
-</a>
-<a href="https://app.hackthebox.eu/profile/36525" target="_blank">
-<img align="left" alt="HackTheBox" width="33" src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/hackthebox.svg" />
-</a>
-<a href="https://stackoverflow.com/users/13693791/mariuskimmina" target="_blank">
-  <img align="left" alt="StackOverFlow" width="33" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" />
-</a>
-
-<br />
 <br />
 <br />
 
@@ -38,7 +22,7 @@
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="padding-right:10px;" align="left"/>
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" style="padding-right:10px;" align="left"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" style="padding-right:10px;" align="left"/>
-<img src="	https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" style="padding-right:10px;" align="left"/>
+<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" style="padding-right:10px;" align="left"/>
 <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws" style="padding-right:10px;" align="left"/>
 <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="terraform" style="padding-right:10px;" align="left"/>
 <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="k8s" style="padding-right:10px;" align="left"/>
