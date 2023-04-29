@@ -6,12 +6,16 @@
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
+Hi, I am Marius, a Software Engineer with a focus on infrastructure, automation and security.  
 
-- DevOps Engineer
-- Go & Python
-- Hacking challenges (CTFs)
-- Open-Source - current focus: CoreDNS
+These days I mostly code in Go but I've also worked with Python and now enough JavaScript / Typescript to get by.    
+Topics I care about:
+- Infrastructure as Code
+- CI/CD
+- Kubernetes 
+- Cloud (AWS)
 
+I also care a lot about my own developer exerpience so you can find me constantly tweaking my [dev envrionment](https://github.com/mariuskimmina/.dotfiles)
 
 <br />
 
