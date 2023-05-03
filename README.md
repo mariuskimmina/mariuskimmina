@@ -7,7 +7,7 @@
     <a href="https://mariuskimmina.com/" alt="Website">
         <img src="https://img.shields.io/badge/-Website-blue?style=for-the-badge&logo=hugo&logoColor=white" /></a>
     <a href="https://www.infrastructureposts.com/" alt="Blog">
-        <img src="https://img.shields.io/badge/-Website-blue?style=for-the-badge&logo=substack&logoColor=white" /></a>
+        <img src="https://img.shields.io/badge/-Blog-blue?style=for-the-badge&logo=substack&logoColor=white" /></a>
 </p>
 
 Hi, I am Marius, a Software Engineer with a focus on infrastructure, automation and security.  
