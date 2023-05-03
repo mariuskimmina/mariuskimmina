@@ -6,6 +6,8 @@
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://mariuskimmina.com/" alt="Website">
         <img src="https://img.shields.io/badge/-Website-blue?style=for-the-badge&logo=hugo&logoColor=white" /></a>
+    <a href="https://www.infrastructureposts.com/" alt="Blog">
+        <img src="https://img.shields.io/badge/-Website-blue?style=for-the-badge&logo=substack&logoColor=white" /></a>
 </p>
 
 Hi, I am Marius, a Software Engineer with a focus on infrastructure, automation and security.  
@@ -17,10 +19,13 @@ Topics I care about:
 - Kubernetes 
 - Cloud (AWS)
 
-I also care a lot about my own developer exerpience so you can find me constantly tweaking my [dev envrionment](https://github.com/mariuskimmina/.dotfiles)
+Besides that I am
+
+* Constantly tweaking my [dev envrionment](https://github.com/mariuskimmina/.dotfiles)
+* Writing articles https://www.infrastructureposts.com/
+* Contributing to open-source projects
 
 <br />
-
 
 ## 🧰 Languages and Tools
 <p>
@@ -35,9 +40,3 @@ I also care a lot about my own developer exerpience so you can find me constantl
 </p>   
 
 <br />
-
-[twitter]: https://twitter.com/Mindslave4
-[linkedin]: https://linkedin.com/in/marius-kimmina-33a328201
-[website]: https://blog.mksec.eu/
-[hackthebox]: https://app.hackthebox.eu/profile/36525
-[stackoverflow]: https://stackoverflow.com/users/13693791/mindslave?tab=profile
