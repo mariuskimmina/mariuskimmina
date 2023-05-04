@@ -21,7 +21,7 @@ Topics I care about:
 
 Besides that I am
 
-* Constantly tweaking my [dev envrionment](https://github.com/mariuskimmina/.dotfiles)
+* Constantly tweaking [my dev envrionment](https://github.com/mariuskimmina/.dotfiles)
 * Writing articles https://www.infrastructureposts.com/
 * Contributing to open-source projects
 
