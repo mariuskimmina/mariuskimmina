@@ -2,8 +2,8 @@
 <p align="center">
     <a href="https://linkedin.com/" alt="LinkedIn">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://twitter.com/mariuskimmina" alt="Twitter">
-        <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+    <a rel="me" href="https://mastodon.social/@MariusKimmina" alt="Mastodon">
+        <img src="https://img.shields.io/badge/Mastodon-blue?style=for-the-badge&logo=mastodon&logoColor=white" /></a>
     <a href="https://mariuskimmina.com/" alt="Website">
         <img src="https://img.shields.io/badge/-Website-blue?style=for-the-badge&logo=hugo&logoColor=white" /></a>
     <a href="https://www.infrastructureposts.com/" alt="Blog">
