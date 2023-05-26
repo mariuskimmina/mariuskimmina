@@ -17,12 +17,14 @@ Topics I care about:
 - Infrastructure as Code
 - CI/CD
 - Kubernetes 
-- Cloud (AWS)
+- Cloud Computing (AWS)
+- Security
 
 Besides that I am
 
 * Writing articles https://www.infrastructureposts.com/
 * Contributing to open-source projects
+* Solving hacking challenges (CTFs)
 
 <br />
 
