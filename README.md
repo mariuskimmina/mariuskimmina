@@ -2,7 +2,7 @@
 <p align="center">
     <a href="https://linkedin.com/" alt="LinkedIn">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a rel="me" href="https://mastodon.social/@MariusKimmina" alt="Mastodon">
+    <a rel="me" href="https://infosec.exchange/@mariuskimmina" alt="Mastodon">
         <img src="https://img.shields.io/badge/Mastodon-blue?style=for-the-badge&logo=mastodon&logoColor=white" /></a>
     <a href="https://mariuskimmina.com/" alt="Website">
         <img src="https://img.shields.io/badge/-Website-blue?style=for-the-badge&logo=hugo&logoColor=white" /></a>
