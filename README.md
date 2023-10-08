@@ -17,7 +17,7 @@ Topics I care about:
 - Infrastructure as Code
 - CI/CD
 - Kubernetes 
-- Cloud Computing (AWS)
+- Cloud Computing
 - Security
 
 Besides that I am
