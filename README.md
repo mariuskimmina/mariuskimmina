@@ -12,21 +12,13 @@
 
 Hi, I am Marius, a Software Engineer with a focus on infrastructure, automation and security.  
 
-These days I mostly code in Go but I've also worked with Python and know enough JavaScript / Typescript to get by.    
+These days I mostly code in Go but I've also worked with Python and know enough JavaScript / Typescript to get by. 
+   
 Topics I care about:
-- Infrastructure as Code
-- CI/CD
-- Kubernetes 
-- Cloud Computing
-- Security
+- Infrastructure
+- Observability
+- Kubernetes
 
-Besides that I am
-
-* Writing articles https://www.infrastructureposts.com/
-* Contributing to open-source projects
-* Solving hacking challenges (CTFs)
-
-<br />
 
 ## 🧰 Languages and Tools
 <p>
